@@ -5,8 +5,9 @@ import NavBar from './NavBar';
 function App() {
   return (
     < >
-     <NavBar/>
-     <Home/>
+      <NavBar />
+      <Home />
+
     </>
   );
 }
