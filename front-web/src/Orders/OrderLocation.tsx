@@ -4,8 +4,8 @@ import AsyncSelect from 'react-select/async'
 import { fetchLocalMapBox } from '../api'
 import { OrderLocationData } from './types'
 const initialPosition = {
-    lat: 51.505,
-    lng: -0.09
+    lat: -22.53955608,
+    lng: -41.96629154986002
 }
 
 type Place = {
